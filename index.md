@@ -47,7 +47,7 @@ and humans && institutiones that:
  * Like to collaborate with others and share data
  * Care more about the "what" than the "how" (at least the how in *i don't know how*)
  
- ## [](#header-2)What is next?
+ ## [](#header-2) What is next?
  
  We are already developing and testing some ideas. Soon we will be sharing code and HOW-TO's openly here.
  Technology piece, languages and standards are mostly decided and our architecture established. We can't say too much, but 
